@@ -1,3 +1,4 @@
+live view:https://ammy198488.github.io/qr-code-component/index.html
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
